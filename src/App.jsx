@@ -77,7 +77,7 @@ function App() {
                   d="M5 13l4 4L19 7"
                 />
               </svg>
-              <span className="text-xl font-semibold text-white">ToDo App</span>
+              <span className="text-xl font-semibold text-white">TrackYour2Do</span>
             </div>
 
             {/* Desktop Menu */}
